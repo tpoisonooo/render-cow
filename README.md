@@ -1,5 +1,3 @@
-#### 说明 
-
 1. how-to-build
 
 mkdir build && make -j 
@@ -11,3 +9,6 @@ mkdir build && make -j
 ./Rasterizer output.jpg bump 
 ./Rasterizer output.jpg displacement 
 
+3. example
+
+![cow](https://raw.githubusercontent.com/tpoisonooo/render-cow/master/image/texture.jpg)
