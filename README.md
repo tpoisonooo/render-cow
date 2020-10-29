@@ -1,6 +1,6 @@
 1. how-to-build
 
-mkdir build && make -j 
+mkdir build && cd build && make -j 
 
 2. how-to-use
 
